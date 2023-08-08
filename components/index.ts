@@ -5,6 +5,7 @@ import SearchBar from "./SearchBar";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import CarCard from "./CarCard";
+import ShowMore from "./ShowMore";
 
 export {
     Hero,
@@ -14,5 +15,5 @@ export {
     Footer,
     Navbar,
     SearchBar,
-
+    ShowMore
 }
