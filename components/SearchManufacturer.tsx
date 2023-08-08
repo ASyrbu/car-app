@@ -23,7 +23,7 @@ const SearchManufacturer = ({ selected, setSelected }: SearchManuFacturerProps) 
                 <div className='relative w-full'>
                     <Combobox.Button className='absolute top-[14px]'>
                         <Image
-                            src='/car-logo.svg'
+                            src='/logo1.svg'
                             width={20}
                             height={20}
                             className='ml-4'
